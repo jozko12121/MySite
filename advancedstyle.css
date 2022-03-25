@@ -1,4 +1,10 @@
-bodybackg {
+.button {
+     padding: 16px 32px;
+     font-size: 16px;
+     margin: 4px 2px;
+}
+
+body {
      background-color: blue;
 }
 
