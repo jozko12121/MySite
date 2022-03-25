@@ -2,6 +2,10 @@ body {
      background-image: url('man-sleeping.jpg');
 }
 
+h1 {
+     color: white;
+}
+
 p {
      margin-bottom: 60px;
 }
