@@ -1,5 +1,5 @@
 body {
-     background-image:"man-sleeping.jpg"
+     background-image: url('man-sleeping.jpg');
 }
 
 p {
