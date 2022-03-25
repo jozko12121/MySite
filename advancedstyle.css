@@ -1,6 +1,8 @@
-body {
-     background-image: url('man-sleeping.jpg');
-}
+<style>
+     body {
+           background-image: url('man-sleeping.jpg');
+     }
+</style>
 
 h1 {
      color: white;
